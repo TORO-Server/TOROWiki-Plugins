@@ -1,6 +1,6 @@
 # Table of contents
 
-* [PluginList](README.md)
+* [プラグインリスト](README.md)
 
 ## プラグイン一覧 <a href="#plugins" id="plugins"></a>
 
